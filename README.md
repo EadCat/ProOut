@@ -16,7 +16,7 @@ The official repository of **Progressive Artwork Outpainting via Latent Diffusio
 Latent diffusion models have demonstrated superior performance over traditional methods in generating highly detailed and aesthetically pleasing images, which makes them widely used for various image generation and editing tasks, including outpainting. However, most LDM-based outpainting methods impose constraints on resolution and aspect ratio, often leading to the loss of local details and blurring. One way to address these issues is progressive outpainting, where the image is extended outward incrementally. However, naive progressive outpainting suffers from two key challenges: (1) difficulty in effectively capturing global context, making it hard to maintain the original context, and (2) a tendency to generate unnatural patterns. These challenges are particularly pronounced in art, where artists pre-design the composition before painting. As a result, existing methods often introduce visual inconsistencies that distract the viewer and diminish the intended artistic emphasis. To address these limitations, we propose two types of composition planning modules that enhance progressive outpainting by leveraging global structural guidance. These modules guide a pre-trained stable diffusion model to consider the overall composition, enabling realistic and contextually appropriate artwork completion without labor-intensive user prompts. Through experiments on diverse artwork images, we show the effectiveness of our proposed method both quantitatively and qualitatively.
 
 ## 🎯 Overview
-Inspired by [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity), we started this project to achieve outpainting that is consistent with the original content and style. <b><i>Due to institutional policies</i></b>, most of the project's source code cannot be released, but <b>we are making the data augmentation algorithms described in the paper publicly available.</b> Since the loss function is the same as the widely known stable diffusion training method, we believe that architectures like ControlNet will serve as a good baseline for the tasks proposed in the paper.
+Inspired by [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity), we started this project to achieve outpainting that is consistent with the original content and style. <b><i>Due to institutional policies</i></b>, most of the project's source code cannot be released, but <b>we are making the data augmentation algorithms described in the paper publicly available.</b> Since the loss function is the same as the widely known stable diffusion training method, we believe that architectures like ControlNet will serve as a good baseline for the task proposed in the paper.
 
 ## 📚 Useful References for Reproduction
 We recommend the following links to reproduce our task and project!
@@ -68,7 +68,7 @@ python vis.py
   <p align="center" style="margin-top:-20px;"><b>Progressive Outpainting Task</b></p>
 </p>
 
-## 📬 Concat
+## 📬 Contact
 
 For any questions, discussions, or commercial use inquiries, please contact the email below.
 
