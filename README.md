@@ -8,6 +8,12 @@
 The official repository of **Progressive Artwork Outpainting via Latent Diffusion Models** (ICCV 2025).
 
 [Dae-Young Song](https://eadcat.github.io/), Jung-Jae Yu, [Donghyeon Cho](https://scholar.google.com/citations?user=zj-NER4AAAAJ&hl=en)
+<p align="center">
+  <video width="90%" controls loop autoplay muted>
+    <source src="assets/outpainting.mp4" type="video/mp4">
+  </video>
+</p>
+
 
 <p align="center">
   <img src="assets/Teaser.png" alt="Progressive Artwork Outpainting Teaser" width="100%"/>
