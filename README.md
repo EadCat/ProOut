@@ -1,5 +1,6 @@
 # Progressive Artwork Outpainting via Latent Diffusion Models
 
+[![Project Page](https://img.shields.io/badge/Project_Page-blue)](https://eadcat.github.io/ProOutWeb/)
 [![Paper](https://img.shields.io/badge/Paper-ICCV%202025-blue)](https://arxiv.org/abs/XXXX.XXXXX)
 [![Supplementary Materials](https://img.shields.io/badge/Supplementary%20Materials-ICCV%202025-blue)](https://arxiv.org/abs/XXXX.XXXXX)
 - The hyperlink will be updated!
