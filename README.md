@@ -76,7 +76,7 @@ For any questions, discussions, or commercial use inquiries, please contact the 
 
 
 
-## 📚 Citation
+## 📝 Citation
 
 If you find this work useful for your research, please cite our paper:
 
@@ -84,7 +84,8 @@ If you find this work useful for your research, please cite our paper:
 @inproceedings{song2025proout,
   title={Progressive Artwork Outpainting via Latent Diffusion Models},
   author={Song, Dae-Young and Yu, Jung-Jae and Cho, Donghyeon},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  booktitle={Proceedings of the IEEE/CVF International Conference on 
+  Computer Vision (ICCV)},
   year={2025}
 }
 ```
