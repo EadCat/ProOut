@@ -76,7 +76,7 @@ python vis.py
 
 ## 📬 Contact
 
-For any questions, discussions, or commercial use inquiries, please contact the email below.
+For any questions, or discussions, please contact the email below.
 
 - eadyoung@etri.re.kr
 
