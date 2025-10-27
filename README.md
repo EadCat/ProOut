@@ -1,9 +1,8 @@
 # Progressive Artwork Outpainting via Latent Diffusion Models
 
 [![Project Page](https://img.shields.io/badge/Project_Page-blue)](https://eadcat.github.io/ProOutWeb/)
-[![Paper](https://img.shields.io/badge/Paper-ICCV%202025-blue)](https://arxiv.org/abs/XXXX.XXXXX)
-[![Supplementary Materials](https://img.shields.io/badge/Supplementary%20Materials-ICCV%202025-blue)](https://arxiv.org/abs/XXXX.XXXXX)
-- The hyperlink will be updated!
+[![Paper](https://img.shields.io/badge/Paper-ICCV%202025-blue)](https://openaccess.thecvf.com/content/ICCV2025/papers/Song_Progressive_Artwork_Outpainting_via_Latent_Diffusion_Models_ICCV_2025_paper.pdf)
+[![Supplementary Materials](https://img.shields.io/badge/Supplementary%20Materials-ICCV%202025-blue)](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Song_Progressive_Artwork_Outpainting_ICCV_2025_supplemental.pdf)
 
 The official repository of **Progressive Artwork Outpainting via Latent Diffusion Models** (ICCV 2025).
 
