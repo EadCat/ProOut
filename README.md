@@ -86,11 +86,11 @@ For any questions, or discussions, please contact the email below.
 If you find this work useful for your research, please cite our paper:
 
 ```bibtex
-@inproceedings{song2025proout,
+@inproceedings{song2025progressive,
   title={Progressive Artwork Outpainting via Latent Diffusion Models},
   author={Song, Dae-Young and Yu, Jung-Jae and Cho, Donghyeon},
-  booktitle={Proceedings of the IEEE/CVF International Conference on 
-  Computer Vision (ICCV)},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages={15405--15415},
   year={2025}
 }
 ```
